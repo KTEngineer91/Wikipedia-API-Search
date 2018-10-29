@@ -1,0 +1,57 @@
+body{
+  background-image: url('https://lifehacker.ru/wp-content/uploads/2010/04/600px-Wikipedia-logo.svg.jpg');
+ 
+  color:rgb(0,0,0);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  
+}
+.heading{
+  border-radius:25px;
+  margin:1%;
+  padding:1%;
+  display:inline-block;
+ font-family: 'Lora', serif;
+}
+.heading img{
+  background-color:#0099cc;
+  border-radius:25px;
+  display:inline-block;
+  font-family: 'Lora', serif;
+  width:50%;
+}
+a { color: inherit; 
+} 
+h2{
+  color:black;
+  padding-left:1%;
+  padding-top:1%;
+}
+p{
+  padding-bottom: 1%;
+  padding-left:1%;
+  font-size:25px;
+}
+div{
+  border-radius:25px;
+}
+
+button{
+margin:1%;
+}
+#output{
+ margin-top:1%;
+  border-radius:25px;
+  font-family: 'Lora', serif;
+}
+h2 {
+  font-family: 'Lora', serif
+}
+h1 {
+  font-size:70px;
+}
+
+h3 {
+  font-size:30px;
+  font-family: 'Lora', serif
+}
